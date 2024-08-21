@@ -79,6 +79,6 @@ To learn more about React Native, take a look at the following resources:
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
 
 
-Fot iOS issue:
+For iOS issue:
 
 https://github.com/CocoaPods/CocoaPods/issues/12209#issuecomment-2296781083
